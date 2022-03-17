@@ -1,0 +1,20 @@
+.bg-grey {
+  background-color: lightgrey;
+}
+
+.col-lg-4 {
+  background-color: #00e2e2;
+  width: 33% !important;
+}
+
+.col-lg-2 {
+  background-color: #00cece;
+}
+
+.col-lg-6 {
+  background-color: #00a7a7;
+}
+
+a {
+  display: block;
+}
